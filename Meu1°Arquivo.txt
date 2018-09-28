@@ -1,2 +1,2 @@
 linha 01
-write "Ola Mundo"
+linha 02
